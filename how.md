@@ -8,14 +8,12 @@ summary: How?
 ## Overview
 The task at hand is enormous, since Mahābhārata, together with accessory texts comes up to roughly 150,000 shloka-s. At the hands of expert reciters, assuming a rate of about 60 shloka-s an hour (including time required for rehearsal before recording), this would require a 2,450.25 hours of recording effort. Beyond that, we expect roughly the same effort for closely examining and editing the recordings. Past experience with other audio products suggest that a couple of iterations of recording, checking, rerecording might be required to remove errors.
 
-At the hands of expert reciters, assuming a rate of about 60 shloka-s an hour (including time required for rehearsal before recording), this would require a 2,450.25 hours of recording effort. Beyond that, we expect roughly the same effort for closely examining and editing the recordings.[\[8\]](#ftnt8)
-
 A past attempt by us (see [this archive page](https://www.google.com/url?q=https://archive.org/details/mahAbhArata-mUla-paThanam-GP&sa=D&ust=1536608308745000)) at using volunteers to record the text has thrown up several unsurprising problems:
 
 *   Inconsistent, unpredictable and slow progress
 *   Varying quality due to varying levels of proficiency.
 
-Hence, we propose to identify and engage expert reciters with access to android phones and free mp3 recording apps (thereby bypassing studio recording costs). We will allot them chapters to record and send to us. We will then track their progress, examine the recording quality, edit as necessary and publish the final product freely on the internet.
+Nevertheless, we propose to identify and engage expert reciters with access to android phones and free mp3 recording apps (thereby bypassing studio recording costs). We will allot them chapters to record and send to us. We will then track their progress, examine the recording quality, edit as necessary and publish the final product freely on the internet.
 
 
 ## Record audio for us?

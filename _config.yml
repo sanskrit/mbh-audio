@@ -25,10 +25,22 @@ disqus_shortname: mbh-audio-site
 google_analytics:
 # if you have google-analytics ID, put it in. if not, edit this value to blank.
 
-google_webmaster_verification_tag:
+google_webmaster_verification_tag: "<meta name=\"google-site-verification\" content=\"33f1oqqMeFzIsi1CqZcWDNtPLOqxkEhEg6Sitg7h6d4\" />"
 # if you don't have the above, edit this value to blank.
 
 google_custom_search_code: "
+<script>
+  (function() {
+    var cx = '003441740804712584864:omkvhozupxs';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
 "
 
 host: 127.0.0.1

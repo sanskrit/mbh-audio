@@ -29,7 +29,7 @@ Are you interested in helping us? Please contact us via [whatsapp](https://group
 * Notify coordinator (via whatsapp or add a comment in the appropriate cell of the कार्यावली-sheet; include edit requests).
 
 #### Recording instructions
-* Most importantly: shoot for good pronunciation - न vs ण, स vs श vs ष, अल्पप्राण (त) vs महाप्राण (थ), आ vs अ (esp in the end, like in उवाच). We can coach you. https://goo.gl/htvxdN , https://goo.gl/mL3238
+* Most importantly: shoot for good pronunciation - न vs ण, स vs श vs ष, अल्पप्राण (त) vs महाप्राण (थ), आ vs अ (esp in the end, like in उवाच). We can coach you. [Video demo](https://goo.gl/htvxdN), [शिक्षाभिप्रायः](https://goo.gl/mL3238)
 *‌ Read without breaking sandhi-s or adding excess gaps (eg. in the end of odd pAda-s). 
 * Rehearse difficult shloka-s once before unpausing and recording. In case you're having much trouble: "Before each shloka, pause the recording and rehearse until you are satisfied. Then resume and make the practiced recording. Repeat for the next shloka."
 * With prose sections, plan where you will pause for breath and how it ought to sound to convey the "conversational" bhAva.
@@ -39,13 +39,14 @@ Are you interested in helping us? Please contact us via [whatsapp](https://group
 
 ### Technical instructions
 #### Iphone setup
-* Install https://itunes.apple.com/us/app/mp3-voice-recorder-audio-note/id891186831?mt=8
+* Install [mp3-voice-recorder-audio-note](https://itunes.apple.com/us/app/mp3-voice-recorder-audio-note/id891186831?mt=8)
 
 #### Android setup
-* Install https://play.google.com/store/apps/details?id=com.nll.asr&hl=en
+* Install [ASR App](https://play.google.com/store/apps/details?id=com.nll.asr&hl=en)
 * Set up noise cancellation as needed.
 * Pause and proceed during recording as needed. Don't pause in the middle of a verse to avoid jitters - only pause between verses.
-* If you've made rerecordings (saying "punaH"), please cut out the bad portions and upload only the good portions yourself. (Use the scissor icon in the bottom right part of the playbackscreen of ASR - https://i.imgur.com/jwqPDWs.png )
+* If you've made rerecordings (saying "punaH"), please cut out the bad portions and upload only the good portions yourself.
+  - Use the scissor icon in the bottom right part of the playbackscreen of ASR - ![](https://i.imgur.com/jwqPDWs.png)
 
 ## For coordinators
 * Assign small portions for recordings

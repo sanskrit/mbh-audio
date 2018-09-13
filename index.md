@@ -52,7 +52,6 @@ Speaking very conservatively, we have an eager and ready audience of atleast a f
 Even beyond people with basic Sanskrit comprehension, the original reaches many more people through translations and commentaries. For example, Gita Press publishes a Mahābhārata edition where the original Sanskrit shloka-s are acommpanied by a Hindi translation. So too could future productions take advantage of the audio files that we produce to interleave translations and commentaries along with the original. Such derivate work would be stunted if the original itself were not available.
 
 ### Current lack of Audio
-
 For comparison, one can manage to find audio resources for free if one wants to listen to the Bible or Quran. One can even listen to the Illiad and Odyssey in translation! We Hindu-s have been lagging behind in this space (which is partly understandable given our recent history, current circumstances and the sheer size of our sacred lore). Among Hindu literature, one can manage to find a few bits of the Veda-s, some popular stotra-s, the Rāmāyaṇa [\[6\]](https://archive.org/details/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2), the Bhagavat Gita and the Bhagavata Purāṇa[\[7\]](https://archive.org/details/Shrimad-Bhagawat-Samhita-sanskrit/01skandha01/BH-samhita-01-03.mp3) in audio format. A prominent missing piece is the Mahābhārata. It is quite shocking that a devout Hindu boy or girl cannot listen to the Mahābhārata in the original in this day and age.
 
 ![war image](https://i.imgur.com/UuEwS7Z.jpg)

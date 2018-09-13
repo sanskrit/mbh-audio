@@ -29,7 +29,7 @@ Are you interested in helping us? Please contact us via [whatsapp](https://group
 - Notify coordinator (via whatsapp or add a comment in the appropriate cell of the कार्यावली-sheet; include edit requests).
 
 #### Recording instructions
-- Most importantly: shoot for good pronunciation - न vs ण, स vs श vs ष, अल्पप्राण (त) vs महाप्राण (थ), आ vs अ (esp in the end, like in उवाच). We can coach you. [Video demo](https://goo.gl/htvxdN), [शिक्षाभिप्रायः](https://goo.gl/mL3238)
+- Most importantly: shoot for good pronunciation - न vs ण, स vs श vs ष, अल्पप्राण (त) vs महाप्राण (थ), आ vs अ (esp in the end, like in उवाच). We can coach you. [Video demo](https://goo.gl/htvxdN), [शिक्षाभिप्रायः]()
 - Read without breaking sandhi-s or adding excess gaps (eg. in the end of odd pAda-s). 
 - Rehearse difficult shloka-s once before unpausing and recording. In case you're having much trouble: "Before each shloka, pause the recording and rehearse until you are satisfied. Then resume and make the practiced recording. Repeat for the next shloka."
 - With prose sections, plan where you will pause for breath and how it ought to sound to convey the "conversational" bhAva.

@@ -3,10 +3,10 @@ repository: sanskrit/projects
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Mahabharata audio project महाभारत-ध्वनिमुद्रणम्
+topnav_title: Sanskrit projects
 # this appears on the top navigation bar next tog the home button
 
-site_title: Mahabharata audio project महाभारत-ध्वनिमुद्रणम्
+site_title: Sanskrit projects
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: sanskrit-coders
@@ -113,7 +113,7 @@ defaults:
 sidebars:
 - home_sidebar
 
-description: Mahabharata audio project.
+description: Sanskrit projects.
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.

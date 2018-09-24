@@ -10,9 +10,9 @@ contents:
         url: /mbh-audio/index.html
       - title: How?
         url: /mbh-audio/how.html
-  - title: Dormant projects
-    contents:
-      - title: संस्कृतशाला-प्रस्तावः
-        url: /schools/bay-area-sanskrit-school-dream.html
   - title: Blog
     url: /assets/blog/index.html
+  - title: Archive
+    contents:
+    - title: संस्कृतशाला-प्रस्तावः
+      url: /schools/bay-area-sanskrit-school-dream.html

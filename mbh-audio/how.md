@@ -33,8 +33,8 @@ Are you interested in helping us? Please contact us via [whatsapp](https://group
 - Read without breaking sandhi-s or adding excess gaps (eg. in the end of odd pAda-s). 
 - Rehearse difficult shloka-s once before unpausing and recording. In case you're having much trouble: "Before each shloka, pause the recording and rehearse until you are satisfied. Then resume and make the practiced recording. Repeat for the next shloka."
 - With prose sections, plan where you will pause for breath and how it ought to sound to convey the "conversational" bhAva.
-- If you make a mistake or are unsatisified, just say "punaH" and rerecord after a 3 second break.
-  - Bonus: Try to render appropriate bhAva (especially in emotional spots).
+- If you make a mistake or are unsatisified, just say "punaH" and rerecord after a 3 second break. But please note that you must cut out the mistake as described in the technical instructions below.
+- Bonus: Try to render appropriate bhAva (especially in emotional spots).
 - If despite efforts, there are shortcomings, don't worry - we can fix or replace later.
 
 ### Technical instructions

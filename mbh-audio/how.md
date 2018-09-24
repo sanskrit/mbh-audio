@@ -13,11 +13,16 @@ A past attempt by us (see [this archive page](https://www.google.com/url?q=https
 -   Inconsistent, unpredictable and slow progress
 -   Varying quality due to varying levels of proficiency.
 
-Nevertheless, we propose to identify and engage expert reciters with access to android phones and free mp3 recording apps (thereby bypassing studio recording costs). We will allot them chapters to record and send to us. We will then track their progress, examine the recording quality, edit as necessary and publish the final product freely on the internet.
+Nevertheless, we propose to identify and engage expert reciters with access to android phones and free mp3 recording apps (thereby bypassing studio recording costs). We will allot them chapters to record and send to us. We will then track their progress, examine the recording quality, edit as necessary and publish the final product freely (under the Creative Commons Attribution-ShareAlike 4.0 International License) on the internet.
 
+### Who?
+The project is coordinated and conducted under the auspices of Vyoma Labs.
+
+### Donations
+We are grateful to have been promised a donation by the Indic Academy. With this plan to meet our expenses for this project (especially paying expert reciters).
 
 ## Record audio for us?
-Are you interested in helping us? Please contact us via [whatsapp](https://groups.google.com/forum/#!forum/mahabharata-mulam) or email (we have an [email list](https://groups.google.com/forum/#!forum/mahabharata-mulam)).
+Are you interested in helping us? Please contact us via whatsapp (+1 650 567 6533) or email (we have an [email list](https://groups.google.com/forum/#!forum/mahabharata-mulam)). You can volunteer or you can choose to be paid daxiṇā (details below) - eitherway, please be aware that you *commit* to regularly produce good recordings.
 
 ### Workflow
 - Set up recording apps (details below), go over instructions etc..
@@ -48,6 +53,18 @@ Are you interested in helping us? Please contact us via [whatsapp](https://group
 - If you've made rerecordings (saying "punaH"), please cut out the bad portions and upload only the good portions yourself.
   - Use the scissor icon in the bottom right part of the playbackscreen of ASR - ![](https://i.imgur.com/jwqPDWs.png)
 
+### Expectations with paid recorders
+Before engaging someone as a paid recorder, to ensure adequate quality and ability - we will ask for a sample recording of an assigned chapter.
+
+When we engage someone as a paid recorder we will have a clear understanding about:
+- the expected quality of recording (described in this website)
+- the expected daxiṇā per shloka in properly and timely recordings of assigned chapters
+- the expected rate of output.
+
+Further, a formal agreement will be signed with Vyoma Labs.
+
+The daxiṇā will be dispatched periodically (monthly at the latest). We will keep track of shloka-s (submitted, checked and accepted) so as to accurately calculate the amount due.
+
 ## For coordinators
 - Assign small portions for recordings
 - Track progress, ensure respectable pace (~ 2 hrs per week per recorder).
@@ -58,3 +75,4 @@ Are you interested in helping us? Please contact us via [whatsapp](https://group
 - Listen to recordings via archive item/ podcast/ google drive 
 - Just add a comment in the appropriate cell of the कार्यावली-sheet
 - Alternatively, respond on whatsapp
+

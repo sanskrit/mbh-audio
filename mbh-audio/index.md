@@ -10,7 +10,7 @@ summary: Welcome page.
 
 ## What?
 
-Mahābhārata is the panchama-veda and should reside in every hindu's heart; but alas one has no means to listen to it in Sanskrit. So, one can more easily hear the Illiad and Odyssey but not the Bhārata. To remedy this, we aim to freely publish and distribute the Mahābhārata, in the Sanskrit original, as an audio book on the internet. Specifically, we use the tastefully compiled, well translated and hugely popular [Gita Press edition](https://archive.org/search.php?query=Ramanarayanadatta%20astri). 
+Mahābhārata is the panchama-veda and should reside in every hindu's heart; but alas one has no means to listen to it in Sanskrit. So, one can more easily hear the Illiad and Odyssey but not the Bhārata. To remedy this, we aim to freely (Creative Commons Attribution-ShareAlike 4.0 International License) publish and distribute the Mahābhārata, in the Sanskrit original, as an audio book on the internet. Specifically, we use the tastefully compiled, well translated and hugely popular [Gita Press edition](https://archive.org/search.php?query=Ramanarayanadatta%20astri). 
 
 With your help, we hope to realize this dream - nay our solemn duty as descendents of the sages who inspired the Mahābhārata - of spreading the ideals of the Veda-s through this true and sacred auditory expression. If you want to contribute, see [this page](how.md).
 

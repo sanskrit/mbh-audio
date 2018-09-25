@@ -16,10 +16,7 @@ A past attempt by us (see [this archive page](https://www.google.com/url?q=https
 Nevertheless, we propose to identify and engage expert reciters with access to android phones and free mp3 recording apps (thereby bypassing studio recording costs). We will allot them chapters to record and send to us. We will then track their progress, examine the recording quality, edit as necessary and publish the final product freely (under the Creative Commons Attribution-ShareAlike 4.0 International License) on the internet.
 
 ### Who?
-The project is coordinated and conducted under the auspices of Vyoma Labs.
-
-### Donations
-We are grateful to have been promised a donation by the Indic Academy. With this plan to meet our expenses for this project (especially paying expert reciters).
+The project is coordinated and conducted under the auspices of Vyoma Labs. We are grateful to have been promised a donation by the Indic Academy. With this plan to meet our expenses for this project (especially paying expert reciters).
 
 ## Record audio for us?
 Are you interested in helping us? Please contact us via whatsapp (+1 650 567 6533) or email (we have an [email list](https://groups.google.com/forum/#!forum/mahabharata-mulam)). You can volunteer or you can choose to be paid daxiṇā (details below) - eitherway, please be aware that you *commit* to regularly produce good recordings.

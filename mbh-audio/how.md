@@ -8,12 +8,14 @@ summary: How?
 ## Overview
 The task at hand is enormous, since Mahābhārata, together with accessory texts comes up to roughly 150,000 shloka-s. At the hands of expert reciters, assuming a rate of about 60 shloka-s an hour (including time required for rehearsal before recording), this would require a 2,450.25 hours of recording effort. Beyond that, we expect roughly the same effort for closely examining and editing the recordings. Past experience with other audio products suggest that a couple of iterations of recording, checking, rerecording might be required to remove errors.
 
-A past attempt by us (see [this archive page](https://www.google.com/url?q=https://archive.org/details/mahAbhArata-mUla-paThanam-GP&sa=D&ust=1536608308745000)) at using volunteers to record the text has thrown up several unsurprising problems:
+We propose to identify and engage expert reciters (both paid ones and volunteers) with access to android phones and free mp3 recording apps (thereby bypassing studio recording costs). We will allot them chapters to record and send to us. We will then track their progress, examine the recording quality, edit as necessary and publish the final product freely (under the Creative Commons Attribution-ShareAlike 4.0 International License) on the internet.
+
+A past attempt by us at using volunteers to record the text had thrown up several unsurprising problems:
 
 -   Inconsistent, unpredictable and slow progress
 -   Varying quality due to varying levels of proficiency.
 
-Nevertheless, we propose to identify and engage expert reciters with access to android phones and free mp3 recording apps (thereby bypassing studio recording costs). We will allot them chapters to record and send to us. We will then track their progress, examine the recording quality, edit as necessary and publish the final product freely (under the Creative Commons Attribution-ShareAlike 4.0 International License) on the internet.
+This we hope to surpass by adding paid expert reciters.
 
 ### Who?
 The project is coordinated and conducted under the auspices of Vyoma Labs. We are grateful to have been promised a donation by the Indic Academy. With this plan to meet our expenses for this project (especially paying expert reciters).
@@ -25,8 +27,8 @@ Are you interested in helping us? Please contact us via whatsapp (+1 650 567 653
 - Set up recording apps (details below), go over instructions etc..
 - Identify assigned portions from [this sheet](https://docs.google.com/spreadsheets/d/1sNH1AWhhoa5VATqMdLbF652s7srTG0Raa6K-sCwDR-8/edit#gid=0).
 - Make an mp3 recording you're satisfied with. (Note time-segments where editing is needed, or edit yourself.) TIP: Rehearse a small set of verses, record it, pause, repeat with next set.
-- Upload to [this google drive location](https://drive.google.com/drive/folders/0B1_QBT-hoqqVMUNSLVlyMlJqZDA?usp=sharing) (but keep a copy for some time) - under a subfolder named after you.
-- Rename in this way: 001-045.mp3 (or 001-045p01.mp3 001-045p02.mp3 .. if multi-part recording.)
+- Upload the mp3 to [this google drive location](https://drive.google.com/drive/folders/0B1_QBT-hoqqVMUNSLVlyMlJqZDA?usp=sharing) (but keep a copy for some time) - under a subfolder named after you.
+- Rename the mp3 based on the parva and adhyAya recorded in this way: 001-045.mp3 (or 001-045p01.mp3 001-045p02.mp3 .. if multi-part recording.)
 - Solicit and provide feedback on whatsapp forum (Especially in the beginning)
 - Notify coordinator (via whatsapp or add a comment in the appropriate cell of the कार्यावली-sheet; include edit requests).
 

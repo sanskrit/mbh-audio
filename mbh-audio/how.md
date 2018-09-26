@@ -35,7 +35,7 @@ Are you interested in helping us? Please contact us via whatsapp (+1 650 567 653
 
 #### Recording instructions
 -  मध्ये दूरवाणीशब्दो (notification sound) हन्त आगतश् चेत् - ततः परं रसापकर्षणम् नास्ति। ध्वन्यङ्कनसमये दूरवाणीयन्त्रम् मौनस्थितौ ("do not disturb mode"/ "airplane mode" इत्यादिना) स्थापनीयम्। कम्पनशब्दो (vibration)ऽपि न स्यात्।
-  - गणेश-सरस्वती-व्यासादीनां नमनम् प्रतिसर्गं ध्वनिमुद्रणे न स्यात् - कामम् ध्वनिमुद्रणात् पुर्वं श्रद्धया स्वामोदाय कुर्यात्।
+  - गणेश-सरस्वती-व्यासादीनां नमनम् प्रतिसर्गं ध्वनिमुद्रणे न स्यात् - कामम् ध्वनिमुद्रणात् पुर्वं श्रद्धया स्वतृप्त्यै कुर्यात्।
 - Most importantly: shoot for good pronunciation - न vs ण, स vs श vs ष, अल्पप्राण (त) vs महाप्राण (थ), आ vs अ (esp in the end, like in उवाच), उपध्मानीय where विसर्ग appears before पवर्ग etc.. We can coach you. [Video demo](https://goo.gl/htvxdN), [शिक्षाभिप्रायः](http://vvasuki.github.io/notes/language/sanskrit/shixaa.html)
   - TIP: Rehearse a small set of verses, record it, pause, repeat with next set.
 - Read without breaking sandhi-s or adding excess gaps (eg. in the end of odd pAda-s). 
@@ -62,7 +62,7 @@ Before engaging someone as a paid recorder, to ensure adequate quality and abili
 When we engage someone as a paid recorder we will have a clear understanding about:
 - the expected quality of recording (described in this website)
 - the expected daxiṇā per shloka in properly and timely recordings of assigned chapters
-- the expected rate of output.
+- the expected rate of output. (कियता कालेन पठनीयम् इति नैके ऽपृच्छन्। भवतां पठनक्षमताम् अनुसृत्य पठनार्थम् अध्यायान् सूचयिष्यामः - वयन्तु यावच्छीघ्रं ध्वनिमुद्रणानि सङ्गृहीतुं वाञ्छामः। उदाहरणाय- यदि दिने २०० श्लोकान् पठितुम् अस्ति क्षमता, तन्मात्रान् अध्यायान् पठनार्थं समर्पयामः। अवरपक्षे तु दिने १०० श्लोकान् पठितुं प्रयतध्वम् 🙏 🙏)
 
 Further, a formal agreement will be signed with Vyoma Labs.
 
@@ -70,7 +70,7 @@ The daxiṇā will be dispatched periodically (monthly at the latest). We will k
 
 ## For coordinators
 - Assign small portions for recordings
-- Track progress, ensure respectable pace (~ 2 hrs per week per recorder).
+- Track progress, ensure respectable pace.
 - Periodically gather submitted recordings, check them
 - Upload to archive item.
 

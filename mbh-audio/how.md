@@ -26,14 +26,18 @@ Are you interested in helping us? Please contact us via whatsapp (+1 650 567 653
 ### Workflow
 - Set up recording apps (details below), go over instructions etc..
 - Identify assigned portions from [this sheet](https://docs.google.com/spreadsheets/d/1sNH1AWhhoa5VATqMdLbF652s7srTG0Raa6K-sCwDR-8/edit#gid=0).
-- Make an mp3 recording you're satisfied with. (Note time-segments where editing is needed, or edit yourself.) TIP: Rehearse a small set of verses, record it, pause, repeat with next set.
+- Make an mp3 recording you're satisfied with. (Note time-segments where editing is needed, or edit yourself.)
 - Upload the mp3 to [this google drive location](https://drive.google.com/drive/folders/0B1_QBT-hoqqVMUNSLVlyMlJqZDA?usp=sharing) (but keep a copy for some time) - under a subfolder named after you.
+  - See recording tips below.
 - Rename the mp3 based on the parva and adhyAya recorded in this way: 001-045.mp3 (or 001-045p01.mp3 001-045p02.mp3 .. if multi-part recording.)
 - Solicit and provide feedback on whatsapp forum (Especially in the beginning)
 - Notify coordinator (via whatsapp or add a comment in the appropriate cell of the कार्यावली-sheet; include edit requests).
 
 #### Recording instructions
-- Most importantly: shoot for good pronunciation - न vs ण, स vs श vs ष, अल्पप्राण (त) vs महाप्राण (थ), आ vs अ (esp in the end, like in उवाच). We can coach you. [Video demo](https://goo.gl/htvxdN), [शिक्षाभिप्रायः](http://vvasuki.github.io/notes/language/sanskrit/shixaa.html)
+-  मध्ये दूरवाणीशब्दो (notification sound) हन्त आगतश् चेत् - ततः परं रसापकर्षणम् नास्ति। ध्वन्यङ्कनसमये दूरवाणीयन्त्रम् मौनस्थितौ ("do not disturb mode"/ "airplane mode" इत्यादिना) स्थापनीयम्। कम्पनशब्दो (vibration)ऽपि न स्यात्।
+  - गणेश-सरस्वती-व्यासादीनां नमनम् प्रतिसर्गं ध्वनिमुद्रणे न स्यात् - कामम् ध्वनिमुद्रणात् पुर्वं श्रद्धया स्वामोदाय कुर्यात्।
+- Most importantly: shoot for good pronunciation - न vs ण, स vs श vs ष, अल्पप्राण (त) vs महाप्राण (थ), आ vs अ (esp in the end, like in उवाच), उपध्मानीय where विसर्ग appears before पवर्ग etc.. We can coach you. [Video demo](https://goo.gl/htvxdN), [शिक्षाभिप्रायः](http://vvasuki.github.io/notes/language/sanskrit/shixaa.html)
+  - TIP: Rehearse a small set of verses, record it, pause, repeat with next set.
 - Read without breaking sandhi-s or adding excess gaps (eg. in the end of odd pAda-s). 
 - Rehearse difficult shloka-s once before unpausing and recording. In case you're having much trouble: "Before each shloka, pause the recording and rehearse until you are satisfied. Then resume and make the practiced recording. Repeat for the next shloka."
 - With prose sections, plan where you will pause for breath and how it ought to sound to convey the "conversational" bhAva.

@@ -36,7 +36,7 @@ Are you interested in helping us? Please contact us via whatsapp (+1 650 567 653
 #### Recording instructions
 -  मध्ये दूरवाणीशब्दो (notification sound) हन्त आगतश् चेत् - ततः परं रसापकर्षणम् नास्ति। ध्वन्यङ्कनसमये दूरवाणीयन्त्रम् मौनस्थितौ ("do not disturb mode"/ "airplane mode" इत्यादिना) स्थापनीयम्। कम्पनशब्दो (vibration)ऽपि न स्यात्।
   - गणेश-सरस्वती-व्यासादीनां नमनम् प्रतिसर्गं ध्वनिमुद्रणे न स्यात् - कामम् ध्वनिमुद्रणात् पुर्वं श्रद्धया स्वतृप्त्यै कुर्यात्।
-- Most importantly: shoot for good pronunciation - न vs ण, स vs श vs ष, अल्पप्राण (त) vs महाप्राण (थ), आ vs अ (esp in the end, like in उवाच), उपध्मानीय where विसर्ग appears before पवर्ग etc.. We can coach you. [Video demo](https://goo.gl/htvxdN), [शिक्षाभिप्रायः](http://vvasuki.github.io/notes/language/sanskrit/shixaa.html)
+- Most importantly: shoot for good pronunciation - न vs ण, स vs श vs ष, अल्पप्राण (त) vs महाप्राण (थ), थ vs ध, आ vs अ (esp in the end, like in उवाच), उपध्मानीय where विसर्ग appears before पवर्ग etc.. We can coach you a bit. [Video demo](https://goo.gl/htvxdN), [शिक्षाभिप्रायः](http://vvasuki.github.io/notes/language/sanskrit/shixaa.html)
   - TIP: Rehearse a small set of verses, record it, pause, repeat with next set.
 - Read without breaking sandhi-s or adding excess gaps (eg. in the end of odd pAda-s). 
 - Rehearse difficult shloka-s once before unpausing and recording. In case you're having much trouble: "Before each shloka, pause the recording and rehearse until you are satisfied. Then resume and make the practiced recording. Repeat for the next shloka."

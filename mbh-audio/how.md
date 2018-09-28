@@ -25,7 +25,7 @@ Are you interested in helping us? Please contact us via whatsapp (+1 650 567 653
 
 ### Workflow
 - Set up recording apps (details below), go over instructions etc..
-- Identify assigned portions from [this sheet](https://docs.google.com/spreadsheets/d/1sNH1AWhhoa5VATqMdLbF652s7srTG0Raa6K-sCwDR-8/edit#gid=0).
+- Identify assigned portions from [this sheet](https://docs.google.com/spreadsheets/d/1sNH1AWhhoa5VATqMdLbF652s7srTG0Raa6K-sCwDR-8/edit#gid=0). "001-076" नाम प्रथमपर्वणः (नामादिपर्वणः) ७६-तमो ऽध्यायः।
 - Make an mp3 recording you're satisfied with. (Note time-segments where editing is needed, or edit yourself.)
 - Upload the mp3 to [this google drive location](https://drive.google.com/drive/folders/0B1_QBT-hoqqVMUNSLVlyMlJqZDA?usp=sharing) (but keep a copy for some time) - under a subfolder named after you.
   - See recording tips below.

@@ -46,23 +46,23 @@ Are you interested in helping us? Please contact us via whatsapp (+1 650 567 653
 - If despite efforts, there are shortcomings, don't worry - we can fix or replace later.
 
 ### Technical instructions
-#### Iphone setup
-- Install [mp3-voice-recorder-audio-note](https://itunes.apple.com/us/app/mp3-voice-recorder-audio-note/id891186831?mt=8)
-
-#### Android setup
+#### Android setup and usage
 - Install [ASR App](https://play.google.com/store/apps/details?id=com.nll.asr&hl=en)
 - Set up noise cancellation as needed.
 - Pause and proceed during recording as needed. Don't pause in the middle of a verse to avoid jitters - only pause between verses.
 - *Removing errors*: In case there are mistakes in the middle of a recording, you can use the scissor icon in the bottom right part of the playbackscreen of ASR to save the "good portions" as separate files, which you can later submit as a multipart recording of the allotted chapter 
   - ![Screenshot from ASR showing scissor icon](https://i.imgur.com/jwqPDWs.png)
 
+#### Iphone setup and usage
+- Install [mp3-voice-recorder-audio-note](https://itunes.apple.com/us/app/mp3-voice-recorder-audio-note/id891186831?mt=8)
+
 ### Expectations with paid recorders
 Before engaging someone as a paid recorder, to ensure adequate quality and ability - we will ask for a sample recording of an assigned chapter.
 
 When we engage someone as a paid recorder we will have a clear understanding about:
 - the expected quality of recording (described in this website)
-- the expected daxiṇā per shloka in properly and timely recordings of assigned chapters
-- the expected rate of output. (कियता कालेन पठनीयम् इति नैके ऽपृच्छन्। भवतां पठनक्षमताम् अनुसृत्य पठनार्थम् अध्यायान् सूचयिष्यामः - वयन्तु यावच्छीघ्रं ध्वनिमुद्रणानि सङ्गृहीतुं वाञ्छामः। उदाहरणाय- यदि दिने २०० श्लोकान् पठितुम् अस्ति क्षमता, तन्मात्रान् अध्यायान् पठनार्थं समर्पयामः। अवरपक्षे तु दिने १०० श्लोकान् पठितुं प्रयतध्वम् 🙏 🙏)
+- the expected daxiṇā per shloka in properly and timely recordings of assigned chapters (PS: the greater the rate of good quality recordings, the greater the daxiṇā per shloka)
+- the expected rate of output. (कियता कालेन पठनीयम् इति नैके ऽपृच्छन्। भवतां पठनक्षमताम् अनुसृत्य पठनार्थम् अध्यायान् सूचयिष्यामः - वयन्तु यावच्छीघ्रं ध्वनिमुद्रणानि सङ्गृहीतुं वाञ्छामः। उदाहरणाय- यदि दिने २०० श्लोकान् पठितुम् अस्ति क्षमता, तन्मात्रान् अध्यायान् पठनार्थं समर्पयामः। अवरपक्षे तु दिने १०० श्लोकान् पठितुं प्रयतध्वम्।)
 
 Further, a formal agreement will be signed with Vyoma Labs.
 

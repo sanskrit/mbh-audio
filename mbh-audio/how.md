@@ -53,8 +53,7 @@ Are you interested in helping us? Please contact us via whatsapp (+1 650 567 653
 - Install [ASR App](https://play.google.com/store/apps/details?id=com.nll.asr&hl=en)
 - Set up noise cancellation as needed.
 - Pause and proceed during recording as needed. Don't pause in the middle of a verse to avoid jitters - only pause between verses.
-- If you've made mistakes in the middle of the recording but have rerecorded the mistaken portions immediately afterwards, please cut out and upload only the good portions yourself.
-  - PS: In android, you can use the scissor icon in the bottom right part of the playbackscreen of ASR to save the "good portions" as separate files, which you can later submit as a multipart recording of the allotted chapter - ![](https://i.imgur.com/jwqPDWs.png)
+- In case there are mistakes in the middle of a recording, you can use the scissor icon in the bottom right part of the playbackscreen of ASR to save the "good portions" as separate files, which you can later submit as a multipart recording of the allotted chapter - ![](https://i.imgur.com/jwqPDWs.png)
 
 ### Expectations with paid recorders
 Before engaging someone as a paid recorder, to ensure adequate quality and ability - we will ask for a sample recording of an assigned chapter.

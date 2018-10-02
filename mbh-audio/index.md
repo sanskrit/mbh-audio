@@ -18,11 +18,11 @@ With your help, we hope to realize this dream - nay our solemn duty as descenden
 ## Where?
 It is important to note that at any point in time, the output(in the form of audio files) of our efforts up to then will be available publicly and freely on the internet at archive.org. We will constantly publish a summary of project status online. So, connoiseurs will be able to enjoy the fruits of our labor even as the project progresses to increasingly higher levels of completion and quality.
 
-Listen here:
-
-- [Archive item](https://archive.org/details/mahAbhArata-mUla-paThanam-GP)
+Listen or download here:
+- [Github staging repositories](https://github.com/mahabharata-audio-2018/) - this is where audio file contributions are primarily and securely collected.
+- [Archive item](https://archive.org/details/mahAbhArata-mUla-paThanam-GP) - this is where audio file contributions are primarily presented for listening.
 - Podcast
-  - [RSS](http://api.vedavaapi.org/scala/podcasts/v1/archiveRequests?archiveRequestUri=https%3A%2F%2Fgithub.com%2Fsanskrit-coders%2Frss-feeds%2Fraw%2Fmaster%2Ffeeds%2Fsa%2FrequestJsons%2FmahAbhArata-mUla-paThanam.json)
+  - [RSS feed](http://api.vedavaapi.org/scala/podcasts/v1/archiveRequests?archiveRequestUri=https%3A%2F%2Fgithub.com%2Fsanskrit-coders%2Frss-feeds%2Fraw%2Fmaster%2Ffeeds%2Fsa%2FrequestJsons%2FmahAbhArata-mUla-paThanam.json) based on the Archive item described above.
   - Also see [Podcast list](https://docs.google.com/spreadsheets/d/1KMhtMaHCQpucqxH3aVcmYmPvQyV9vmunvckV2ARvD4M/edit#gid=0)
 
 ## Why?

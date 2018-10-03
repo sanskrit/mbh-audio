@@ -72,7 +72,7 @@ The daxiṇā will be dispatched periodically (monthly at the latest). We will k
 - Assign small portions for recordings depending on recorder's capacity.
 - Track progress, ensure respectable pace.
 - Periodically gather submitted recordings, check them, suggest corrections.
-- Upload to github and the archive item. (Useful script here: [mbh_audio.py](https://github.com/vvasuki/misc-python/blob/master/mbh_audio.py))
+- Upload to github and the archive item. (Useful scripts here: [mbh_audio](https://github.com/mahabharata-audio-2018/mbh_audio))
 
 ### Feedback
 - Listen to recordings via archive item/ podcast/ google drive 

@@ -48,7 +48,7 @@ Are you interested in helping us? Please contact us via whatsapp (+1 650 567 653
 ### Technical instructions
 #### Android setup and usage
 - Install [ASR App](https://play.google.com/store/apps/details?id=com.nll.asr&hl=en)
-- Set up noise cancellation as needed.
+- Set up noise cancellation as needed (PS: Note that this reduces recording volume).
 - Pause and proceed during recording as needed. Don't pause in the middle of a verse to avoid jitters - only pause between verses.
 - *Removing errors*: In case there are mistakes in the middle of a recording, you can use the scissor icon in the bottom right part of the playbackscreen of ASR to save the "good portions" as separate files, which you can later submit as a multipart recording of the allotted chapter 
   - ![Screenshot from ASR showing scissor icon](https://i.imgur.com/jwqPDWs.png)
@@ -69,10 +69,10 @@ Further, a formal agreement will be signed with Vyoma Labs.
 The daxiṇā will be dispatched periodically (monthly at the latest). We will keep track of shloka-s (submitted, checked and accepted) so as to accurately calculate the amount due.
 
 ## For coordinators
-- Assign small portions for recordings
+- Assign small portions for recordings depending on recorder's capacity.
 - Track progress, ensure respectable pace.
-- Periodically gather submitted recordings, check them
-- Upload to archive item.
+- Periodically gather submitted recordings, check them, suggest corrections.
+- Upload to github and the archive item. (Useful script here: [mbh_audio.py](https://github.com/vvasuki/misc-python/blob/master/mbh_audio.py))
 
 ### Feedback
 - Listen to recordings via archive item/ podcast/ google drive 

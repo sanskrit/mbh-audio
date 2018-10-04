@@ -74,7 +74,12 @@ The daxiṇā will be dispatched periodically (monthly at the latest). We will k
 - Assign small portions for recordings depending on recorder's capacity.
 - Track progress, ensure respectable pace.
 - Periodically gather submitted recordings, check them, suggest corrections.
-- Once a satisfactory initial recording is obtained, normalize the audio (change from sterio to mono, set loudness to 16dbfs), add mp3 tags identifying the reciter in the standard way, upload to github and the archive item. (Useful scripts here: [mbh_audio](https://github.com/mahabharata-audio-2018/mbh_audio))
+- Once a satisfactory initial recording is obtained, do the following (Useful scripts here: [mbh_audio](https://github.com/mahabharata-audio-2018/mbh_audio)):
+  - normalize the audio
+    - change from sterio to mono
+    - set loudness to 16dbfs
+  - add mp3 tags identifying the reciter in the standard way
+  - upload to github and the archive item.
 
 ### Feedback
 - Listen to recordings via archive item/ podcast/ google drive 

@@ -44,6 +44,7 @@ Are you interested in helping us? Please contact us via whatsapp (+1 650 567 653
 - If you make a mistake or are unsatisified, just say "punaH" and rerecord after a 3 second break. Later, cut out the mistake as described in the technical instructions below, and submit only the good portions.
 - Bonus: Try to render appropriate bhAva (especially in emotional spots).
 - If despite efforts, there are shortcomings, don't worry - we can fix or replace later.
+- Our mechanical processing of recordings means that you don't have to worry about your recording sounding "too faint" when you record or hearing different volumes while listening to different adhyaaya-s or including your name in the recording filename. As long as within a recording file, the loudness is consistent and as long as our spreadsheet is accurate - we're fine.
 
 ### Technical instructions
 #### Android setup and usage
@@ -69,6 +70,7 @@ Further, a formal agreement will be signed with Vyoma Labs.
 The daxiṇā will be dispatched periodically (monthly at the latest). We will keep track of shloka-s (submitted, checked and accepted) so as to accurately calculate the amount due.
 
 ## For coordinators
+- Induct recording volunteers, and gather payment details (agreement [here](https://docs.google.com/document/d/1CEMH5LUhpEdu2xe0Lz2nWbW7KXAZyvWd21GUAD5iJVw/edit#)).
 - Assign small portions for recordings depending on recorder's capacity.
 - Track progress, ensure respectable pace.
 - Periodically gather submitted recordings, check them, suggest corrections.

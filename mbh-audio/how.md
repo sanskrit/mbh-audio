@@ -40,7 +40,7 @@ Are you interested in helping us? Please contact us via whatsapp (+1 650 567 653
   - TIP: Rehearse a small set of verses, record it, pause, repeat with next set.
 - Read without breaking sandhi-s or adding excess gaps (eg. in the end of odd pAda-s). 
 - Rehearse difficult shloka-s once before unpausing and recording. In case you're having much trouble: "Before each shloka, pause the recording and rehearse until you are satisfied. Then resume and make the practiced recording. Repeat for the next shloka."
-- With prose sections, plan where you will pause for breath and how it ought to sound to convey the "conversational" bhAva.
+- With prose sections, where the punctuation marks ought to be, plan where you will pause for breath and how it ought to sound to convey the "conversational" bhAva.
 - If you make a mistake or are unsatisified, just say "punaH" and rerecord after a 3 second break. Later, cut out the mistake as described in the technical instructions below, and submit only the good portions.
 - Bonus: Try to render appropriate bhAva (especially in emotional spots).
 - If despite efforts, there are shortcomings, don't worry - we can fix or replace later.
@@ -48,7 +48,7 @@ Are you interested in helping us? Please contact us via whatsapp (+1 650 567 653
 ### Technical instructions
 #### Android setup and usage
 - Install [ASR App](https://play.google.com/store/apps/details?id=com.nll.asr&hl=en)
-- Set up noise cancellation as needed (PS: Note that this reduces recording volume).
+- Set up noise cancellation as needed (PS: Note that this reduces recording volume, but that's ok - it'll be adjusted after you submit the file).
 - Pause and proceed during recording as needed. Don't pause in the middle of a verse to avoid jitters - only pause between verses.
 - *Removing errors*: In case there are mistakes in the middle of a recording, you can use the scissor icon in the bottom right part of the playbackscreen of ASR to save the "good portions" as separate files, which you can later submit as a multipart recording of the allotted chapter 
   - ![Screenshot from ASR showing scissor icon](https://i.imgur.com/jwqPDWs.png)

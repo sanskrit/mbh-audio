@@ -25,9 +25,9 @@ Are you interested in helping us? Please contact us via whatsapp (+1 650 567 653
 
 ### Workflow
 - Set up recording apps (details below), go over instructions etc..
-- Identify assigned portions from [this sheet](https://docs.google.com/spreadsheets/d/1sNH1AWhhoa5VATqMdLbF652s7srTG0Raa6K-sCwDR-8/edit#gid=0). "001-076" नाम प्रथमपर्वणः (नामादिपर्वणः) ७६-तमो ऽध्यायः।
+- Identify assigned portions from [this sheet - http://bit.ly/mbh-tasks ](https://docs.google.com/spreadsheets/d/1sNH1AWhhoa5VATqMdLbF652s7srTG0Raa6K-sCwDR-8/edit#gid=0). "001-076" नाम प्रथमपर्वणः (नामादिपर्वणः) ७६-तमो ऽध्यायः।
 - Make an mp3 recording you're satisfied with. (Note time-segments where editing is needed, or edit yourself.)
-- Upload the mp3 to [this google drive location](https://drive.google.com/drive/folders/0B1_QBT-hoqqVMUNSLVlyMlJqZDA?usp=sharing) (but keep a copy for some time) - under a subfolder named after you.
+- Upload the mp3 to [this google drive location - http://bit.ly/mbh-submit](https://drive.google.com/drive/folders/0B1_QBT-hoqqVMUNSLVlyMlJqZDA?usp=sharing) (but keep a copy for some time) - under a subfolder named after you.
   - See recording tips below.
 - Rename the mp3 based on the parva and adhyAya recorded in this way: 001-045.mp3 (or 001-045p01.mp3 001-045p02.mp3 .. if multi-part recording.)
 - Solicit and provide feedback on whatsapp forum (Especially in the beginning)
@@ -70,7 +70,7 @@ Further, a formal agreement will be signed with Vyoma Labs.
 The daxiṇā will be dispatched periodically (monthly at the latest). We will keep track of shloka-s (submitted, checked and accepted) so as to accurately calculate the amount due.
 
 ## For coordinators
-- Induct recording volunteers, and gather payment details (agreement [here](https://docs.google.com/document/d/1CEMH5LUhpEdu2xe0Lz2nWbW7KXAZyvWd21GUAD5iJVw/edit#)).
+- Induct recording volunteers, and gather payment details (agreement [pdf - bit.ly/mbh-sandhi-v1](bit.ly/mbh-sandhi-v1), source [here](https://drive.google.com/drive/folders/1kqnLzqgQqWx4KUE5ZoS-H6yGv2TT7xf2)).
 - Assign small portions for recordings depending on recorder's capacity.
 - Track progress, ensure respectable pace.
 - Periodically gather submitted recordings, check them, suggest corrections.

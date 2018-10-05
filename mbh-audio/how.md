@@ -70,7 +70,7 @@ Further, a formal agreement will be signed with Vyoma Labs.
 The daxiṇā will be dispatched periodically (monthly at the latest). We will keep track of shloka-s (submitted, checked and accepted) so as to accurately calculate the amount due.
 
 ## For coordinators
-- Induct recording volunteers, and gather payment details (agreement [pdf - bit.ly/mbh-sandhi-v1](bit.ly/mbh-sandhi-v1), source [here](https://drive.google.com/drive/folders/1kqnLzqgQqWx4KUE5ZoS-H6yGv2TT7xf2)).
+- Induct recording volunteers, and gather payment details (agreement [pdf - bit.ly/mbh-sandhi-v1](http://bit.ly/mbh-sandhi-v1), source [here](https://drive.google.com/drive/folders/1kqnLzqgQqWx4KUE5ZoS-H6yGv2TT7xf2)).
 - Assign small portions for recordings depending on recorder's capacity.
 - Track progress, ensure respectable pace.
 - Periodically gather submitted recordings, check them, suggest corrections.

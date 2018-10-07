@@ -7,7 +7,7 @@ summary: Welcome page.
 हरिः, ॐ! स्वागतम्!
 
 ## What?
-We aim to produce audio versions corresponding to popular and inspiring Kannada books.
+We aim to freely (Creative Commons Attribution-ShareAlike 4.0 International License) publish and distribute the Ramayana, in the Sanskrit original, as an audio book on the internet. 
 
 ## Where?
 It is important to note that at any point in time, the output(in the form of audio files) of our efforts up to then will be available publicly and freely on the internet at archive.org. We will constantly publish a summary of project status online. So, connoiseurs will be able to enjoy the fruits of our labor even as the project progresses to increasingly higher levels of completion and quality.

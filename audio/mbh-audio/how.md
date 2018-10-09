@@ -47,6 +47,8 @@ Are you interested in helping us? Please contact us via whatsapp (+1 650 567 653
 - Our mechanical processing of recordings means that you don't have to worry about your recording sounding "too faint" when you record or hearing different volumes while listening to different adhyaaya-s or including your name in the recording filename. As long as within a recording file, the loudness is consistent and as long as our spreadsheet is accurate - we're fine.
 
 ### Technical instructions
+- युष्मासु तान्त्रिकविषयेषु सन्देहास् सन्ति चेत् सूचयन्तु - दूरस्थोऽपि तत्समाधाने यतिष्ये। https://play.google.com/store/apps/details?id=us.zoom.videomeetings इति तन्त्रांशस्तु स्थापनीयः, येन "mobile phone screen sharing" इति सम्भवति।
+
 #### Android setup and usage
 - Install [ASR App](https://play.google.com/store/apps/details?id=com.nll.asr&hl=en)
 - Set up the app as needed:

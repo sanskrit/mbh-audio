@@ -49,7 +49,10 @@ Are you interested in helping us? Please contact us via whatsapp (+1 650 567 653
 ### Technical instructions
 #### Android setup and usage
 - Install [ASR App](https://play.google.com/store/apps/details?id=com.nll.asr&hl=en)
-- Set up noise cancellation as needed (PS: Note that this reduces recording volume, but that's ok - it'll be adjusted after you submit the file).
+- Set up the app as needed:
+  - Consider enabling noise cancellation (PS: Note that this reduces recording volume, but that's ok - it'll be adjusted after you submit the file).
+  - Recording format: mp3, disable "recording in stereo".
+  - Optional settings: Sample rate 44.1kHz, Bitrate 64 kbps.
 - Pause and proceed during recording as needed. Don't pause in the middle of a verse to avoid jitters - only pause between verses.
 - *Removing errors*: In case there are mistakes in the middle of a recording, you can use the scissor icon in the bottom right part of the playbackscreen of ASR to save the "good portions" as separate files, which you can later submit as a multipart recording of the allotted chapter 
   - ![Screenshot from ASR showing scissor icon](https://i.imgur.com/jwqPDWs.png)

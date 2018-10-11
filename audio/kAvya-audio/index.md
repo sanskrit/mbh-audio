@@ -21,5 +21,5 @@ Listen or download here:
     - [kathAsaritsAgara](https://archive.org/details/kathAsaritsAgara-shrAvaNam)
     - [champU-rAmAyaNa-mUlam](https://archive.org/details/champU-rAmAyaNa-mUlam) (Requires much correction.)
 - Podcast
-  - [RSS feed](http://api.vedavaapi.org/scala/podcasts/v1/archiveRequests?archiveRequestUri=https%3A%2F%2Fgithub.com%2Fsanskrit-coders%2Frss-feeds%2Fraw%2Fmaster%2Ffeeds%2Fkn%2FrequestJsons%2FnAgusPodcasts.json) based on the Archive items described above.
+  - [kathAsaritsAgara RSS feed](https://api.vedavaapi.org/scala/podcasts/v1/archiveItems/kathAsaritsAgara-shrAvaNam?publisherEmail=podcast-bhaaratii%40googlegroups.com&languageCode=sa&categoriesCsv=Society%20%26%20Culture&imageUrl=https%3A%2F%2Fi.imgur.com%2FdQjPQYi.jpg&isExplicitYesNo=no).
   - Also see [Podcast list](https://docs.google.com/spreadsheets/d/1KMhtMaHCQpucqxH3aVcmYmPvQyV9vmunvckV2ARvD4M/edit#gid=0)

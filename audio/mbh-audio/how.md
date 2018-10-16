@@ -37,11 +37,12 @@ Are you interested in helping us? Please contact us via whatsapp (+1 650 567 653
 -  मध्ये दूरवाणीशब्दो (notification sound) हन्त आगतश् चेत् - ततः परं रसापकर्षणम् नास्ति। ध्वन्यङ्कनसमये दूरवाणीयन्त्रम् मौनस्थितौ ("do not disturb mode"/ "airplane mode" इत्यादिना) स्थापनीयम्। कम्पनशब्दो (vibration)ऽपि न स्यात्।
   - गणेश-सरस्वती-व्यासादीनां नमनम् प्रतिसर्गं ध्वनिमुद्रणे न स्यात् - कामम् ध्वनिमुद्रणात् पुर्वं श्रद्धया स्वतृप्त्यै कुर्यात्।
 - Most importantly: shoot for good pronunciation - न vs ण, स vs श vs ष, अल्पप्राण (त) vs महाप्राण (थ), थ vs ध, आ vs अ (esp in the end, like in उवाच), उपध्मानीय where विसर्ग appears before पवर्ग etc.. We can coach you a bit. [Video demo](https://goo.gl/htvxdN), [शिक्षाभिप्रायः](http://vvasuki.github.io/notes/language/sanskrit/shixaa.html)
-  - TIP: Rehearse a small set of verses, record it, pause, repeat with next set.
 - Read without breaking sandhi-s or adding excess gaps (eg. in the end of odd pAda-s). 
-- Rehearse difficult shloka-s once before unpausing and recording. In case you're having much trouble: "Before each shloka, pause the recording and rehearse until you are satisfied. Then resume and make the practiced recording. Repeat for the next shloka."
+- Suggested techniques to easily create good recordings (choose whatever works well for you):
+  - Break up a given long chapter into sections of (say) 20 shloka-s and make separate recordings for it. So, rather than submitting one mp3 file for a whole 163 shloka chapter, you would submit 8 mp3 files, each with about 20 shloka-s. Whenever you make an error - you just create a fresh recording for the corresponding set of 20 shloka-s.
+  - Rehearse difficult shloka-s once before unpausing and recording. In case you're having much trouble: "Before each shloka, pause the recording and rehearse until you are satisfied. Then resume and make the practiced recording. Repeat for the next shloka."
+  - If you make a mistake or are unsatisified, just say "punaH" and rerecord after a 3 second break. Later, cut out the mistake as described in the technical instructions below, and submit only the good portions.
 - With prose sections, where the punctuation marks ought to be, plan where you will pause for breath and how it ought to sound to convey the "conversational" bhAva.
-- If you make a mistake or are unsatisified, just say "punaH" and rerecord after a 3 second break. Later, cut out the mistake as described in the technical instructions below, and submit only the good portions.
 - Bonus: Try to render appropriate bhAva (especially in emotional spots).
 - If despite efforts, there are shortcomings, don't worry - we can fix or replace later.
 - Our mechanical processing of recordings means that you don't have to worry about your recording sounding "too faint" when you record or hearing different volumes while listening to different adhyaaya-s or including your name in the recording filename. As long as within a recording file, the loudness is consistent and as long as our spreadsheet is accurate - we're fine.

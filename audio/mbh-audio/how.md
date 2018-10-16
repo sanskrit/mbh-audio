@@ -34,7 +34,13 @@ Are you interested in helping us? Please contact us via whatsapp (+1 650 567 653
 - Notify coordinator (via whatsapp or add a comment in the appropriate cell of the कार्यावली-sheet; include edit requests).
 
 #### Expected recording quality
-- Most importantly: shoot for good pronunciation - न vs ण, स vs श vs ष, अल्पप्राण (त) vs महाप्राण (थ), थ vs ध, आ vs अ (esp in the end, like in उवाच), उपध्मानीय where विसर्ग appears before पवर्ग etc.. We can coach you a bit. [Video demo](https://goo.gl/htvxdN), [शिक्षाभिप्रायः](http://vvasuki.github.io/notes/language/sanskrit/shixaa.html)
+- Most importantly: shoot for good pronunciation -
+  - Clearly distinguish न vs ण, स vs श vs ष, अल्पप्राण (त) vs महाप्राण (थ), थ vs ध, आ vs अ (esp in the end, like in उवाच), etc..
+  - Don't elongate final vyanjana-s. "इदम् अन्यत्तु भगवन्" इत्यत्रान्तिमनकारो "भगवन्न्अ(३)" इतिवन् न श्रूयेत।
+  - विसर्गस्योच्चारणे ऽद्मत्प्रदेशे वर्तमाना काचन रूढिर् दुर्निवारा दृश्यते - यथा "पराक्रमः" इति वचनस्य स्थाने "पराक्रमहा", "विक्रमः" इति वचनस्य स्थाने "विक्रमहा" इत्येवं श्रूयते - तच्च विपरीरार्थसूचकत्वात् (पराक्रमं हन्तीति पराक्रमहा, विक्रमं‌ हन्तीति विक्रमहा) केषुचिद् वैरस्यम् उत्पादयेत्। अतो ऽन्तिमहकारसदृशं विसर्गस्थानीयं शब्दं‌ यथासम्भवम् अव्यक्ततरं‌ कर्तुं यतताम्। 
+  - use उपध्मानीय where विसर्ग appears before पवर्ग, and jihvAmUlIya where it appears before कवर्ग
+  - try to replace terminal anusvAra in a word with the appropriate anunAsika. Example: शङ्करं किञ्चित् -> शङ्करङ्किञ्चित्, रामं वीक्ष्य ->‌ रामव्ँ वीक्ष्य, रामं लक्ष्मणम् -> रामल्ँ लक्ष्मणम्।
+  - We can coach you a bit. [Video demos](https://goo.gl/htvxdN), [शिक्षाभिप्रायः](http://vvasuki.github.io/notes/language/sanskrit/shixaa.html)
 - Read without breaking sandhi-s or adding excess gaps (eg. in the end of odd pAda-s). 
 - Recording should have no notification sounds, no phone call sounds.
 - Recording should have no "correction sounds" - ie "रामो गच्छति काक्...काकुस्थः" or "रामो गच्छति काक्... पुनः ... रामो गच्छति काकुस्थः"

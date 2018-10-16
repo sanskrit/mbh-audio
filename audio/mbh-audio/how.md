@@ -38,13 +38,13 @@ Are you interested in helping us? Please contact us via whatsapp (+1 650 567 653
 - Read without breaking sandhi-s or adding excess gaps (eg. in the end of odd pAda-s). 
 - Recording should have no notification sounds, no phone call sounds.
 - Recording should have no "correction sounds" - ie "रामो गच्छति काक्...काकुस्थः" or "रामो गच्छति काक्... पुनः ... रामो गच्छति काकुस्थः"
+- गणेश-सरस्वती-व्यासादीनां नमनम् प्रतिसर्गं ध्वनिमुद्रणे न स्यात् - कामम् ध्वनिमुद्रणात् पुर्वं श्रद्धया स्वतृप्त्यै कुर्यात्।
 - With prose sections, where the punctuation marks ought to be, plan where you will pause for breath and how it ought to sound to convey the "conversational" bhAva.
 - Our mechanical processing of recordings means that you don't have to worry about your recording sounding "too faint" when you record or hearing different volumes while listening to different adhyaaya-s or including your name in the recording filename. As long as within a recording file, the loudness is consistent and as long as information in our spreadsheet is accurate - we're fine.
 - Bonus: Verse or prose: Try to render appropriate bhAva (especially in emotional spots).
 
 #### Recording instructions
 -  मध्ये दूरवाणीशब्दो (notification sound) हन्त आगतश् चेत् - ततः परं रसापकर्षणम् नास्ति। ध्वन्यङ्कनसमये दूरवाणीयन्त्रम् मौनस्थितौ ("do not disturb mode"/ "airplane mode" इत्यादिना) स्थापनीयम्। कम्पनशब्दो (vibration)ऽपि न स्यात्।
-  - गणेश-सरस्वती-व्यासादीनां नमनम् प्रतिसर्गं ध्वनिमुद्रणे न स्यात् - कामम् ध्वनिमुद्रणात् पुर्वं श्रद्धया स्वतृप्त्यै कुर्यात्।
 - Suggested techniques to easily create good recordings (choose whatever works well for you):
   - Break up a given long chapter into sections of (say) 20 shloka-s and make separate recordings for it. So, rather than submitting one mp3 file for a whole 163 shloka chapter, you would submit 8 mp3 files, each with about 20 shloka-s. Whenever you make an error - you just create a fresh recording for the corresponding set of 20 shloka-s. (अनुवादः - यदि खलु सुदीर्घः‌ सर्गः - उदाहरणाय १६४-श्लोकात्मकः पठ्यते। तेषु दोषा भवन्त्येवाविरतपठने यस्य कस्यचित्। अतः‌ उपायेन खण्डशः‌ पठित्वा प्रेषयतु - प्रतिखण्डं उप-२० एव श्लोकाः स्युः, येन ८ सञ्चिका सृष्ट्वा प्रेषयेत्। तेन दोषे सति, दुष्टस्यैव खण्डस्य पुनःपठनम् करणीयम् भविष्यति।
   - Rehearse difficult shloka-s once before unpausing and recording. In case you're having much trouble: "Before each shloka, pause the recording and rehearse until you are satisfied. Then resume and make the practiced recording. Repeat for the next shloka."

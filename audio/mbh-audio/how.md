@@ -45,7 +45,7 @@ Are you interested in helping us? Please contact us via whatsapp (+1 650 567 653
 
 #### Recording instructions
 -  मध्ये दूरवाणीशब्दो (notification sound) हन्त आगतश् चेत् - ततः परं रसापकर्षणम् नास्ति। ध्वन्यङ्कनसमये दूरवाणीयन्त्रम् मौनस्थितौ ("do not disturb mode"/ "airplane mode" इत्यादिना) स्थापनीयम्। कम्पनशब्दो (vibration)ऽपि न स्यात्।
-- Suggested techniques to easily create good recordings (choose whatever works well for you):
+- Suggested techniques to easily record flawless pronunciation (choose whatever works well for you):
   - Break up a given long chapter into sections of (say) 20 shloka-s and make separate recordings for it. So, rather than submitting one mp3 file for a whole 163 shloka chapter, you would submit 8 mp3 files, each with about 20 shloka-s. Whenever you make an error - you just create a fresh recording for the corresponding set of 20 shloka-s. (अनुवादः - यदि खलु सुदीर्घः‌ सर्गः - उदाहरणाय १६४-श्लोकात्मकः पठ्यते। तेषु दोषा भवन्त्येवाविरतपठने यस्य कस्यचित्। अतः‌ उपायेन खण्डशः‌ पठित्वा प्रेषयतु - प्रतिखण्डं उप-२० एव श्लोकाः स्युः, येन ८ सञ्चिका सृष्ट्वा प्रेषयेत्। तेन दोषे सति, दुष्टस्यैव खण्डस्य पुनःपठनम् करणीयम् भविष्यति।
   - Rehearse difficult shloka-s once before unpausing and recording. In case you're having much trouble: "Before each shloka, pause the recording and rehearse until you are satisfied. Then resume and make the practiced recording. Repeat for the next shloka."
   - If you make a mistake or are unsatisified, just rerecord after a 3 second silence. Later, cut out the mistake as described in the technical instructions below, and submit only the good portions.

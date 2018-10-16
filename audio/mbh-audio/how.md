@@ -48,7 +48,7 @@ Are you interested in helping us? Please contact us via whatsapp (+1 650 567 653
 - Suggested techniques to easily create good recordings (choose whatever works well for you):
   - Break up a given long chapter into sections of (say) 20 shloka-s and make separate recordings for it. So, rather than submitting one mp3 file for a whole 163 shloka chapter, you would submit 8 mp3 files, each with about 20 shloka-s. Whenever you make an error - you just create a fresh recording for the corresponding set of 20 shloka-s.
   - Rehearse difficult shloka-s once before unpausing and recording. In case you're having much trouble: "Before each shloka, pause the recording and rehearse until you are satisfied. Then resume and make the practiced recording. Repeat for the next shloka."
-  - If you make a mistake or are unsatisified, just say "punaH" and rerecord after a 3 second break. Later, cut out the mistake as described in the technical instructions below, and submit only the good portions.
+  - If you make a mistake or are unsatisified, just rerecord after a 3 second silence. Later, cut out the mistake as described in the technical instructions below, and submit only the good portions.
 - If despite efforts, there are shortcomings, don't worry - we can fix or replace later.
 
 ### Technical instructions

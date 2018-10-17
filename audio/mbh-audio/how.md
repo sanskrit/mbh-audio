@@ -24,7 +24,7 @@ The project is coordinated and conducted under the auspices of Vyoma Labs. We ar
 Are you interested in helping us? Please contact us via whatsapp (+1 650 567 6533) or email (we have an [email list](https://groups.google.com/forum/#!forum/mahabharata-mulam)). You can volunteer or you can choose to be paid daxiṇā (details below) - eitherway, please be aware that you *commit* to regularly produce good recordings.
 
 ### Expected recording quality and instructions
-Please see the common [Reciting and Recording: tips page](http://vvasuki.github.io/notes/language/sanskrit/shixaa/tips.html)
+Please see the common [Reciting and Recording: tips page](../tips.md)
 
 ### Workflow
 - Set up recording apps (details below), go over instructions etc..

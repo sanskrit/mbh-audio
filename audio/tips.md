@@ -13,7 +13,7 @@ title: शिक्षा - उच्चारणे ध्वनिरक्ष
 
 ### Pauses and tune
   - In case of verses - adapt a melody or tune appropriate for the meter. 
-  - Read without breaking sandhi-s or adding excess gaps (eg. in the end of odd pAda-s). 
+  - Read without breaking sandhi-s or adding excess gaps (eg. in the end of odd pAda-s). अनेन च्छन्दःशास्त्रनियमः पाल्यते, पादे पादे कटुविसर्गोच्चारनादिदोषा वर्यन्ते। 
   - With prose sections, where the punctuation marks ought to be, plan where you will pause for breath and how it 
 
 ### Miscellania

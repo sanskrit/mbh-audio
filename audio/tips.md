@@ -1,5 +1,5 @@
 ---
-title: शिक्षा - उच्चारणे ध्वनिरक्षणे च सूचनाः Reciting and Recording: tips 
+title: शिक्षा - उच्चारणे ध्वनिरक्षणे च सूचनाः Reciting and Recording- tips 
 ---
 
 ## Good pronunciation: Most important

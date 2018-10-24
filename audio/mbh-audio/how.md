@@ -29,7 +29,7 @@ Please see the common [Reciting and Recording: tips page](../tips.md)
 ### Workflow
 - Set up recording apps (details below), go over instructions etc..
 - Identify assigned portions from this sheet - [http://bit.ly/mbh-tasks ](https://docs.google.com/spreadsheets/d/1sNH1AWhhoa5VATqMdLbF652s7srTG0Raa6K-sCwDR-8/edit#gid=0). "001-076" नाम प्रथमपर्वणः (नामादिपर्वणः) ७६-तमो ऽध्यायः।
-- Make an mp3 recording you're satisfied with. (Note time-segments where editing is needed, or edit yourself.)
+- Make mp3 recordings you're satisfied with.
 - Upload the mp3 to this google drive location - [http://bit.ly/mbh-submit](https://drive.google.com/drive/folders/0B1_QBT-hoqqVMUNSLVlyMlJqZDA?usp=sharing) (but keep a copy for some time) - under a subfolder named after you.
   - See recording tips mentioned above.
 - Rename the mp3 based on the parva and adhyAya recorded in this way: 001-045.mp3 (or 001-045p01.mp3 001-045p02.mp3 .. if multi-part recording.)

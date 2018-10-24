@@ -5,11 +5,11 @@ title: शिक्षा - उच्चारणे ध्वनिरक्ष
 ## Good pronunciation: Most important
 
 ### varNa-level pronunciation
-  - Clearly distinguish न vs ण, स vs श vs ष, अल्पप्राण (त) vs महाप्राण (थ), थ vs ध, आ vs अ (esp in the end, like in उवाच), etc.. But don't overcompensate! Overemphasis on mahAprANa-s etc.. harms the natural melody.
-  - Don't elongate final vyanjana-s. "इदम् अन्यत्तु भगवन्" इत्यत्रान्तिमनकारो "भगवन्न्अ(३)" इतिवन् न श्रूयेत।
-  - विसर्गस्योच्चारणे ऽस्मत्प्रदेशे वर्तमाना काचन रूढिर् दुर्निवारा दृश्यते - यथा "पराक्रमः" इति वचनस्य स्थाने "पराक्रमहा", "विक्रमः" इति वचनस्य स्थाने "विक्रमहा" इत्येवं श्रूयते - तच्च विपरीरार्थसूचकत्वात् (पराक्रमं हन्तीति पराक्रमहा, विक्रमं‌ हन्तीति विक्रमहा) केषुचिद् वैरस्यम् उत्पादयेत्। अतो ऽन्तिमहकारसदृशं विसर्गस्थानीयं शब्दं‌ यथासम्भवम् अव्यक्ततरं‌ कर्तुं यतताम्। 
-  - use उपध्मानीय where विसर्ग appears before पवर्ग, and jihvAmUlIya where it appears before कवर्ग
-  - try to replace terminal anusvAra in a word with the appropriate anunAsika. Example: शङ्करं किञ्चित् -> शङ्करङ्किञ्चित्, रामं वीक्ष्य ->‌ रामव्ँ वीक्ष्य, रामं लक्ष्मणम् -> रामल्ँ लक्ष्मणम्।
+- Clearly distinguish न vs ण, स vs श vs ष, अल्पप्राण (त) vs महाप्राण (थ), थ vs ध, आ vs अ (esp in the end, like in उवाच), etc.. But don't overcompensate! Overemphasis on mahAprANa-s etc.. harms the natural melody.
+- Don't elongate final vyanjana-s. "इदम् अन्यत्तु भगवन्" इत्यत्रान्तिमनकारो "भगवन्न्अ(३)" इतिवन् न श्रूयेत।
+- विसर्गस्योच्चारणे ऽस्मत्प्रदेशे वर्तमाना काचन रूढिर् दुर्निवारा दृश्यते - यथा "पराक्रमः" इति वचनस्य स्थाने "पराक्रमहा", "विक्रमः" इति वचनस्य स्थाने "विक्रमहा" इत्येवं श्रूयते - तच्च विपरीरार्थसूचकत्वात् (पराक्रमं हन्तीति पराक्रमहा, विक्रमं‌ हन्तीति विक्रमहा) केषुचिद् वैरस्यम् उत्पादयेत्। अतो ऽन्तिमहकारसदृशं विसर्गस्थानीयं शब्दं‌ यथासम्भवम् अव्यक्ततरं‌ कर्तुं यतताम्। 
+- use उपध्मानीय where विसर्ग appears before पवर्ग, and jihvAmUlIya where it appears before कवर्ग
+- try to replace terminal anusvAra in a word with the appropriate anunAsika. Example: शङ्करं किञ्चित् -> शङ्करङ्किञ्चित्, रामं वीक्ष्य ->‌ रामव्ँ वीक्ष्य, रामं लक्ष्मणम् -> रामल्ँ लक्ष्मणम्।
 
 ### Pauses and tune
   - In case of verses - adapt a melody or tune appropriate for the meter. 
@@ -31,7 +31,7 @@ ought to sound to convey the "conversational" bhAva.
 
 ### General instructions
 - To easily record flawless pronunciation (choose whatever works well for you):
-  - Break up a given long chapter into sections of (say) 20 shloka-s and make separate recordings for it. So, rather than submitting one mp3 file for a whole 163 shloka chapter, you would submit 8 mp3 files, each with about 20 shloka-s. Whenever you make an error - you just create a fresh recording for the corresponding set of 20 shloka-s. (अनुवादः - यदि खलु सुदीर्घः‌ सर्गः - उदाहरणाय १६४-श्लोकात्मकः पठ्यते। तेषु दोषा भवन्त्येवाविरतपठने यस्य कस्यचित्। अतः‌ उपायेन खण्डशः‌ पठित्वा प्रेषयतु - प्रतिखण्डं उप-२० एव श्लोकाः स्युः, येन ८ सञ्चिका सृष्ट्वा प्रेषयेत्। तेन दोषे सति, दुष्टस्यैव खण्डस्य पुनःपठनम् करणीयम् भविष्यति। एवं‌ हि प्रेरणार्थम् [एतद् वाचनम्](https://archive.org/details/Raghuvamsha-mUlam-vedabhoomi.org/Raghuvamsha-Sarga02-21-33.mp3) भवितुम् अर्हति, यत्र खलु श्लोकशः‌ केनचिद् विचक्षणेन गीताः श्लोका ग्रथ्यमानाः।)
+  - Break up a given long chapter into sections of (say) 20 shloka-s and make separate recordings for it. So, rather than submitting one mp3 file for a whole 163 shloka chapter, you would submit 8 mp3 files, each with about 20 shloka-s. Whenever you make an error - you just create a fresh recording for the corresponding set of 20 shloka-s. (अनुवादः - यदि खलु सुदीर्घः‌ सर्गः - उदाहरणाय १६४-श्लोकात्मकः पठ्यते। तेषु दोषा भवन्त्येवाविरतपठने यस्य कस्यचित्। अतः‌ उपायेन खण्डशः‌ पठित्वा प्रेषयतु - प्रतिखण्डं उप-२० (उप-१० वा) एव श्लोकाः स्युः, येन ८ (१६ वा) सञ्चिका सृष्ट्वा प्रेषयेत्। तेन दोषे सति, दुष्टस्यैव खण्डस्य पुनःपठनम् करणीयम् भविष्यति। एवं‌ हि प्रेरणार्थम् [एतद् वाचनम्](https://archive.org/details/Raghuvamsha-mUlam-vedabhoomi.org/Raghuvamsha-Sarga02-21-33.mp3) भवितुम् अर्हति, यत्र खलु श्लोकशः‌ केनचिद् विचक्षणेन गीताः श्लोका ग्रथ्यमानाः।)
   - Rehearse difficult shloka-s once before unpausing and recording. In case you're having much trouble: "Before each shloka, pause the recording and rehearse until you are satisfied. Then resume and make the practiced recording. Repeat for the next shloka."
   - If you make a mistake or are unsatisified, just rerecord after a 3 second silence. Later, cut out the mistake as described in the technical instructions below, and submit only the good portions.
 - To avoid extraneous sounds:

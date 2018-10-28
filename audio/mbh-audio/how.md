@@ -24,7 +24,7 @@ The project is coordinated and conducted under the auspices of Vyoma Labs. We ar
 Are you interested in helping us? Please contact us via whatsapp (+1 650 567 6533) or email (we have an [email list](https://groups.google.com/forum/#!forum/mahabharata-mulam)). You can volunteer or you can choose to be paid daxiṇā (details below) - eitherway, please be aware that you *commit* to regularly produce good recordings.
 
 ### Workflow
-दोषनिवारणाय चोदिताः‌ खलु जनाः कदाचिन् निराशतां यन्ति, द्रुतं च न शोधयन्ति। किञ्च *निर्दुष्टा एव ध्वनिसञ्चिका इष्टाः शीघ्रतरकार्यगतिश्च। अस्य साधनार्थं काचिद् व्यवस्था कल्पनीयेत्यस्माकं धीः।*
+दोषनिवारणाय चोदिताः‌ खलु जनाः कदाचिन् निराशतां यन्ति, द्रुतं च न शोधयन्ति। किञ्च *निर्दुष्टा एव ध्वनिसञ्चिका इष्टाः शीघ्रतरकार्यगतिर् अह्रसमानोत्साहश्च। अस्य साधनार्थं काचिद् व्यवस्था कल्पनीयेत्यस्माकं धीः।*
 
 - Set up recording apps, go over instructions mentioned in the [Reciting and Recording: tips page](../tips.md) page.
 - Identify assigned portions from this sheet - [http://bit.ly/mbh-tasks ](https://docs.google.com/spreadsheets/d/1sNH1AWhhoa5VATqMdLbF652s7srTG0Raa6K-sCwDR-8/edit#gid=0). अनुवादः - पाठ्यांशान् [http://bit.ly/mbh-tasks ](https://docs.google.com/spreadsheets/d/1sNH1AWhhoa5VATqMdLbF652s7srTG0Raa6K-sCwDR-8/edit#gid=0) इति जालपुटाद् अवगच्छतु। "001-076" नाम प्रथमपर्वणः (नाम - आदिपर्वणः) ७६-तमो ऽध्यायः।

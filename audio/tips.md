@@ -27,7 +27,10 @@ ought to sound to convey the "conversational" bhAva.
 - Recording should have no notification sounds, no phone call sounds.
 - Recording should have no "correction sounds" - ie "रामो गच्छति काक्...काकुस्थः" or "रामो गच्छति काक्... पुनः ... रामो गच्छति काकुस्थः"
 - गणेश-सरस्वती-व्यासादीनां नमनम् प्रतिसर्गं ध्वनिमुद्रणे न स्यात् - कामम् ध्वनिमुद्रणात् पुर्वं श्रद्धया स्वतृप्त्यै कुर्यात्।
-- Our mechanical processing of recordings means that you don't have to worry about your recording sounding "too faint" when you record or hearing different volumes while listening to different adhyaaya-s or including your name in the recording filename. As long as within a recording file, the loudness is consistent and as long as information in our spreadsheet is accurate - we're fine. Loudness and file metadata will be automatically adjusted.
+- Our mechanical processing of recordings means that you don't have to worry about the following:
+  - your recording sounding "too faint" when you record or hearing different volumes while listening to different adhyaaya-s. As long as within a recording file, the loudness is consistent and as long as information in our spreadsheet is accurate - we're fine. Loudness will be automatically adjusted.
+  - including your name in the recording filename. As long as information in our spreadsheet is accurate file metadata will be automatically adjusted.
+  - leading and terminal silences - they will be automatically discarded.
 
 ### General instructions
 - To easily record flawless pronunciation (choose whatever works well for you):

@@ -21,7 +21,11 @@ This we hope to surpass by adding paid expert reciters.
 The project is coordinated and conducted under the auspices of Vyoma Labs. We are grateful to have been promised a donation by the Indic Academy. With this plan to meet our expenses for this project (especially paying expert reciters).
 
 ## Record audio for us?
-Are you interested in helping us? Please contact us via whatsapp (+1 650 567 6533) or email (we have an [email list](https://groups.google.com/forum/#!forum/mahabharata-mulam)). You can volunteer or you can choose to be paid daxiṇā (details below) - eitherway, please be aware that you *commit* to regularly produce good recordings.
+Are you interested in helping us? Please contact us via whatsapp (+1 650 567 6533) or email (we have an [email list](https://groups.google.com/forum/#!forum/mahabharata-mulam)). You can volunteer or you can choose to be paid daxiṇā - eitherway, please be aware that you *commit* to regularly produce good recordings.
+
+### The expected rate of output
+कियता कालेन पठनीयम् इति नैके ऽपृच्छन्। भवतां पठनक्षमताम् अनुसृत्य पठनार्थम् अध्यायान् सूचयिष्यामः - वयन्तु यावच्छीघ्रं ध्वनिमुद्रणानि सङ्गृहीतुं वाञ्छामः। उदाहरणाय- यदि दिने २०० श्लोकान् पठितुम् अस्ति क्षमता, तन्मात्रान् अध्यायान् पठनार्थं समर्पयामः। अवरपक्षे तु दिने १०० श्लोकान् पठितुं प्रयतध्वम्।
+
 
 ### Workflow
 दोषनिवारणाय चोदिताः‌ खलु जनाः कदाचिन् निराशतां यन्ति, द्रुतं च न शोधयन्ति। किञ्च *निर्दुष्टा एव ध्वनिसञ्चिका इष्टाः शीघ्रतरकार्यगतिर् अह्रसमानोत्साहश्च। अस्य साधनार्थं काचिद् व्यवस्था कल्पनीयेत्यस्माकं धीः।*
@@ -35,15 +39,8 @@ Are you interested in helping us? Please contact us via whatsapp (+1 650 567 653
 - Solicit and provide feedback on whatsapp forum (Especially in the beginning)
 - Notify coordinator (via whatsapp or add a comment in the appropriate cell of the कार्यावली-sheet; include edit requests).
 
-### Expectations with paid recorders
-Before engaging someone as a paid recorder, to ensure adequate quality and ability - we will ask for a sample recording of an assigned chapter.
-
-When we engage someone as a paid recorder we will have a clear understanding about:
-- the expected quality of recording (described in this website)
-- the expected daxiṇā per shloka in properly and timely recordings of assigned chapters (PS: the greater the rate of good quality recordings, the greater the daxiṇā per shloka)
-- the expected rate of output. (कियता कालेन पठनीयम् इति नैके ऽपृच्छन्। भवतां पठनक्षमताम् अनुसृत्य पठनार्थम् अध्यायान् सूचयिष्यामः - वयन्तु यावच्छीघ्रं ध्वनिमुद्रणानि सङ्गृहीतुं वाञ्छामः। उदाहरणाय- यदि दिने २०० श्लोकान् पठितुम् अस्ति क्षमता, तन्मात्रान् अध्यायान् पठनार्थं समर्पयामः। अवरपक्षे तु दिने १०० श्लोकान् पठितुं प्रयतध्वम्।)
-
-Further, a formal agreement will be signed with Vyoma Labs.
+## Additional details for paid reciters
+A formal agreement will be signed with Vyoma Labs.
 
 The daxiṇā will be dispatched periodically (monthly at the latest). We will keep track of shloka-s (submitted, checked and accepted) so as to accurately calculate the amount due.
 

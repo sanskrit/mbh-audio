@@ -57,3 +57,14 @@ ought to sound to convey the "conversational" bhAva.
 #### Iphone setup and usage
 - Install [mp3-voice-recorder-audio-note](https://itunes.apple.com/us/app/mp3-voice-recorder-audio-note/id891186831?mt=8)
 
+## Curation
+- Assign small portions for recordings depending on recorder's capacity.
+- Track progress, ensure respectable pace.
+- Periodically gather submitted recordings, check them, suggest corrections.
+- Once a satisfactory initial recording is obtained, do the following (Useful scripts here: [mbh_audio](https://github.com/sanskrit-coders/audio_curation/tree/master/curation_projects)):
+  - normalize the audio
+    - set loudness to 16dbfs
+    - change from sterio to mono
+    - remove silent stretches
+  - add mp3 tags identifying the reciter in some standard way
+  - upload to github and the archive item.

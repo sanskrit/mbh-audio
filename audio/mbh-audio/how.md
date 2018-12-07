@@ -42,7 +42,7 @@ Are you interested in helping us? Please contact us via whatsapp (+1 650 567 653
 ## Additional details for paid reciters
 A formal agreement will be signed with Vyoma Labs.
 
-The daxiṇā will be dispatched periodically (monthly at the latest). We will keep track of shloka-s (submitted, checked and accepted) so as to accurately calculate the amount due.
+The daxiṇā will be dispatched periodically (monthly at the latest, subject to bank transaction minimums). We will keep track of shloka-s (submitted, checked and accepted) so as to accurately calculate the amount due.
 
 ## For coordinators
 - Induct recording volunteers, and gather payment details (agreement pdf - [http://bit.ly/mbh-audio-sandhi-html](http://bit.ly/mbh-audio-sandhi-html), source [here](https://drive.google.com/drive/folders/1kqnLzqgQqWx4KUE5ZoS-H6yGv2TT7xf2)).

@@ -20,7 +20,9 @@ It is important to note that at any point in time, the output(in the form of au
 
 Listen or download here:
 - [Github staging repositories](https://github.com/mahabharata-audio-2018/) - this is where audio file contributions are primarily and securely collected.
-- [Archive item](https://archive.org/details/mahAbhArata-mUla-paThanam-GP) - this is where audio file contributions are primarily presented for listening.
+- Here audio file contributions are primarily presented for listening.
+  - [Archive item 1x](https://archive.org/details/mahAbhArata-mUla-paThanam-GP)
+  - [Archive item 1.5x](https://archive.org/details/mahAbhArata-mUla-paThanam-GP-150p-speed)
 - Podcast
   - [RSS feed](http://api.vedavaapi.org/scala/podcasts/v1/archiveRequests?archiveRequestUri=https%3A%2F%2Fgithub.com%2Fsanskrit-coders%2Frss-feeds%2Fraw%2Fmaster%2Ffeeds%2Fsa%2FrequestJsons%2FmahAbhArata-mUla-paThanam.json) based on the Archive item described above.
   - Also see [Podcast list](https://docs.google.com/spreadsheets/d/1KMhtMaHCQpucqxH3aVcmYmPvQyV9vmunvckV2ARvD4M/edit#gid=0)

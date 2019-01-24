@@ -30,5 +30,7 @@ contents:
     url: /assets/blog/index.html
   - title: Archive
     contents:
-    - title: संस्कृतशाला-प्रस्तावः
-      url: /schools/bay-area-sanskrit-school-dream.html
+      - title: संस्कृतशाला-प्रस्तावः
+        url: /schools/bay-area-sanskrit-school-dream.html
+      - title: चित्रवेदाः
+        url: /image/chitraveda/

@@ -45,16 +45,6 @@ See [here](https://docs.google.com/spreadsheets/d/10yfI7hntiJ1NudQbFBFtQYGntiMds
 
 See [here](https://docs.google.com/document/d/1z36PFiclgS9jHoAXh_7-Ok-a6x4NSxYSwp8CAHJy_hs/edit?usp=sharing) (new comments are welcome!).
 
-## Facebook feed
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2';
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
 ## Resources
 
 - [](https://groups.google.com/forum/#!groupsettings/chitraveda-kk/)[mailing list](https://groups.google.com/forum/#!groupsettings/chitraveda-kk/).

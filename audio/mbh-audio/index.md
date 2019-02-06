@@ -24,7 +24,7 @@ Listen or download here:
   - [Archive item 1x](https://archive.org/details/mahAbhArata-mUla-paThanam-GP)
   - [Archive item 1.5x](https://archive.org/details/mahAbhArata-mUla-paThanam-GP-150p-speed)
 - Podcast
-  - [RSS feed](https://raw.githubusercontent.com/sanskrit-coders/rss-feeds/auto-built-feeds/mahAbhArata-mUla-paThanam.rss) based on the Archive item described above.
+  - [RSS feed](https://raw.githubusercontent.com/sanskrit-coders/rss-feeds/auto-built-feeds/sa/mahAbhArata-mUla-paThanam.rss) based on the Archive item described above.
   - Also see [Podcast list](https://docs.google.com/spreadsheets/d/1KMhtMaHCQpucqxH3aVcmYmPvQyV9vmunvckV2ARvD4M/edit#gid=0)
 
 ## Why?

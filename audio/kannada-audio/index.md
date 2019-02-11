@@ -17,8 +17,8 @@ Listen or download here:
 - Archive items where audio file contributions are primarily presented for listening.
   - Ongoing
     - [vachana-bhArata-audio](https://archive.org/details/vachana-bhArata-audio)
-    - [bhAratIya-habba-AcharaNegaLu-rangapriya-swamy](https://archive.org/details/bhAratIya-habba-AcharaNegaLu-rangapriya-swamy)
   - Completed
+    - [bhAratIya-habba-AcharaNegaLu-rangapriya-swamy](https://archive.org/details/bhAratIya-habba-AcharaNegaLu-rangapriya-swamy)
     - [mahA-darshana-devuDu-narasimha-shAstrI](https://archive.org/details/mahA-darshana-devuDu-narasimha-shAstrI)
     - [mahA-kShatriya-devuDu-narasimha-shAstrI](https://archive.org/details/mahA-kShatriya-devuDu-narasimha-shAstrI)
     - [MahaBrahmana-by-DevuduAudio](https://archive.org/details/MahaBrahmana-by-DevuduAudio)

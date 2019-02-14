@@ -8,6 +8,9 @@ tags: [getting_started]
 ## What?
 We aim to freely (Creative Commons Attribution-ShareAlike 4.0 International License) publish and distribute the popular and inspiring Kannada books as audio books on the internet.
 
+### Quality
+Though there are some flaws here and there (especially when it comes to reading sanskrit shloka-s, plus rare noises), it is overall a great boon, in my experience of listening to them during my long walks. The recordings were mechanically normalized, renamed according to chapter-title, sped up 1.5x and curated at the below locations.
+
 ## Where?
 It is important to note that at any point in time, the output(in the form of audio files) of our efforts up to then will be available publicly and freely on the internet at archive.org. We will constantly publish a summary of project status online. So, connoiseurs will be able to enjoy the fruits of our labor even as the project progresses to increasingly higher levels of completion and quality.
 
@@ -35,3 +38,7 @@ Listen or download here:
 - Podcast
   - [RSS feed](http://api.vedavaapi.org/scala/podcasts/v1/archiveRequests?archiveRequestUri=https%3A%2F%2Fgithub.com%2Fsanskrit-coders%2Frss-feeds%2Fraw%2Fmaster%2Ffeeds%2Fkn%2FrequestJsons%2FnAgusPodcasts.json) based on the Archive items described above.
   - Also see [Podcast list](https://docs.google.com/spreadsheets/d/1KMhtMaHCQpucqxH3aVcmYmPvQyV9vmunvckV2ARvD4M/edit#gid=0)
+
+## Contribute!
+
+If you would like to contribute to this effort, or if you want to suggest books of similar calibre for future reading, please [let us know offline](https://github.com/sanskrit/projects/issues/new). One doesn't need to be tech-savvy - and all one needs is some time for pleasure, discipline and a mobile phone with an internet connection for uploading (see [video here](https://www.youtube.com/watch?v=FpwDrXkW1zo)). Even aged retired people have contributed recordings without any trouble.

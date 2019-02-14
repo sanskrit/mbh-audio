@@ -1,0 +1,10 @@
+baseURL = "https://sanskrit.github.io/projects/"
+languageCode = "en-us"
+title = "Sanskrit projects"
+theme = "sanskrit-documentation-theme-hugo"
+publishDir = "build_github"
+[params]
+  githubEditMePathBase = "https://github.com/sanskrit/projects/edit/master/content/"
+  contactLink = "https://github.com/sanskrit/projects/issues/new"
+  env = "production"
+  disqusShortcode = "sanskrit-projects-site"

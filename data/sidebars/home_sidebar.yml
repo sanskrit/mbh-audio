@@ -9,13 +9,13 @@ contents:
       - title: Intro
         url: /audio/
       - title: Reciting and Recording
-        url: /audio/tips.html
+        url: /audio/tips/
       - title: Mahabharata audio
         contents:
           - title: Home - Intro
             url: /audio/mbh-audio/
           - title: How?
-            url: /audio/mbh-audio/how.html
+            url: /audio/mbh-audio/how/
       - title: Ramayana audio
         url: /audio/ramayana-audio/index.html
       - title: kAvya audio
@@ -31,6 +31,6 @@ contents:
   - title: Archive
     contents:
       - title: संस्कृतशाला-प्रस्तावः
-        url: /schools/bay-area-sanskrit-school-dream.html
+        url: /schools/bay-area-sanskrit-school-dream/
       - title: चित्रवेदाः
         url: /image/chitraveda/
